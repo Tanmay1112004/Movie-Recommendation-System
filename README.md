@@ -1,13 +1,9 @@
 ## 🎬 Movie Recommendation System — Professional README (Recruiter-Ready)
 
-![Image](https://cdn.dribbble.com/userupload/12157698/file/original-5eb542012b145e7edf701e23c9e7ed22.png?resize=400x0)
-
-![Image](https://www.researchgate.net/publication/385251916/figure/fig2/AS%3A11431281286252576%401729908164015/Architecture-diagram-for-movie-recommendation-system.png)
-
-![Image](https://global.discourse-cdn.com/streamlit/original/2X/7/75606e4b4b0e2ffb0558c9ae55de8d8e5a78ad0d.gif)
-
-![Image](https://cdn.dribbble.com/userupload/44454137/file/89231e2ea80dd8bc230ee3ec95b37ce9.png?crop=0x0-1196x897\&format=webp\&resize=400x300\&vertical=center)
-
+![demo](https://github.com/Tanmay1112004/Movie-Recommendation-System/blob/main/screenshots/Screenshot%202025-08-30%20223901.png)                                                            
+![demo](https://github.com/Tanmay1112004/Movie-Recommendation-System/blob/main/screenshots/Screenshot%202025-08-30%20224212.png)                                                               
+![demo](https://github.com/Tanmay1112004/Movie-Recommendation-System/blob/main/screenshots/Screenshot%202025-08-30%20224243.png)                                                                     
+![demo](https://github.com/Tanmay1112004/Movie-Recommendation-System/blob/main/screenshots/Screenshot%202025-08-30%20224337.png)                                                      
 # 🎬 Movie Recommendation System
 
 ### Content-Based Recommender | Python • Machine Learning • Streamlit • TMDB API
