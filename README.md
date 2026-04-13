@@ -167,7 +167,7 @@ Streamlit UI
 
 ```bash id="start123"
 # Clone repo
-git clone https://github.com/your-username/Movie-Recommendation-System.git
+git clone https://github.com/Tanmay1112004/Movie-Recommendation-System.git
 
 # Install dependencies
 pip install -r requirements.txt
