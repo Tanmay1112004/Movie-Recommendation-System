@@ -28,6 +28,12 @@ Instead, it understands **what a movie *is*** — and recommends similar ones in
 
 ---
 
+## Demo Images
+
+![demo](https://github.com/Tanmay1112004/Movie-Recommendation-System/blob/main/screenshots/Screenshot%202025-08-30%20223901.png)                                                            
+
+---
+
 ## 🚨 Problem Statement
 
 Streaming platforms have thousands of movies.
